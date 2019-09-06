@@ -76,7 +76,7 @@ header {
 h1 {
     color: #FFEDDF;
     background-color: inherit;
-    font-family: Monica, ariel, sans-serif;
+    font-family: MonicaSmall, ariel, sans-serif;
     font-size: 65px;
     float: left;
     margin: 0;
@@ -160,7 +160,7 @@ li a:hover:not(.active) {
 h2 {
     color: inherit;
     background-color: inherit;
-    font-family: Monica, Arial, sans-serif;
+    font-family: MonicaSmall, Arial, sans-serif;
     clear: left;
     margin: 130px 0 0 0;
     padding: 70px 0 30px 0;
