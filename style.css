@@ -148,6 +148,11 @@ h1 a {
     background-color: inherit;
 }
 
+ul.teamList {
+    text-align: left;
+    list-style-type: none;
+}
+
 
 /* Change the active link to be orange and underlined*/
 
