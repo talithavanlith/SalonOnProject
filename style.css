@@ -116,7 +116,7 @@ li.button {
     margin: 0;
 }
 
-li a {
+nav li a {
     display: block;
     color: inherit;
     background-color: inherit;
@@ -130,7 +130,7 @@ li a {
 
 /* Change the link color to orange on hover and underline*/
 
-li a:hover:not(.active) {
+nav li a:hover:not(.active) {
     background-color: inherit;
     color: #F0B67F;
     text-decoration: underline;
