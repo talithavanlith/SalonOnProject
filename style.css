@@ -67,13 +67,6 @@ section {
 }
 
 
-/* Section padding for index page */
-
-.index {
-    padding: 0;
-}
-
-
 /* Page header specifications */
 
 header {
@@ -95,22 +88,6 @@ h1 {
     /* float: left; */
     margin: 0;
     padding: 0;
-}
-
-
-/* The word "Hotel" in the header */
-
-#header1 {
-    padding: 20px 0 0 33%;
-}
-
-.header_image {
-    color: inherit;
-    background-color: inherit;
-    float: left;
-    padding: 13px 35px 0 20px;
-    margin: 0;
-    width: 80px;
 }
 
 
@@ -176,6 +153,7 @@ h2 {
     background-color: inherit;
     font-family: MonicaSmall, Arial, sans-serif;
     float: left;
+    clear: left;
     margin: 130px 100px 0 0;
     padding: 70px 0 30px 0;
     font-size: 40px;
