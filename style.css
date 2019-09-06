@@ -176,6 +176,7 @@ figure {
 p {
     padding: 0 10% 20px 30%;
     font-size: 20px;
+    clear: left;
 }
 
 
