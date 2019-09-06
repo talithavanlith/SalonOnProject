@@ -142,6 +142,12 @@ p a:hover:not(.active) {
     text-decoration: underline;
 }
 
+h1 a {
+    text-decoration: none;
+    color: #823636;
+    background-color: inherit;
+}
+
 
 /* Change the active link to be orange and underlined*/
 
