@@ -99,7 +99,7 @@ h1 {
 ul.nav {
     list-style-type: none;
     margin: 0;
-    padding: 0 15% 5px 15%;
+    padding: 0 17% 5px 17%;
     overflow: hidden;
     background-color: #823636;
     color: #FFEDDF;
@@ -163,9 +163,11 @@ h3 {
     color: inherit;
     background-color: inherit;
     text-align: center;
-    font-family: LatoLight, ariel, sans-serif;
-    font-size: 35px;
+    font-family: MonicaSmall, ariel, sans-serif;
+    font-size: 30px;
     padding: 10px 0 0 0;
+    clear: left;
+    float: left;
 }
 
 figure {
@@ -198,7 +200,7 @@ footer p {
     clear: left;
     padding: 5px 0 5px 0;
     margin: 0;
-    font-size: 10%;
+    font-size: 15px;
     text-align: center;
 }
 
