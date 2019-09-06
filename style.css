@@ -10,29 +10,29 @@
 /* An Art-Deco style font for headings */
 
 @font-face {
-    font-family: 'Monthoers';
-    src: url('fonts/Monthoers.otf') format('opentype'), url('fonts/Monthoers.ttf') format('truetype');
+    font-family: 'Monica';
+    src: url('fonts/MonicasSalonShadowNF.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Swistblnk';
-    src: url('fonts/Swistblnk_Banthers.otf') format('opentype'), url('fonts/Swistblnk_Banthers.ttf') format('truetype');
+    font-family: 'MonicaSmall';
+    src: url('fonts/MonicasSalonNF.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Simplifica';
-    src: url('fonts/simple.ttf') format('truetype');
+    font-family: 'Boogie';
+    src: url('fonts/BoogieNightsShadowNF.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 html {
-    background-color: #EECD87;
-    color: #1b1d24;
+    background-color: #FFEDDF;
+    color: #0D1321;
     padding: 0;
     margin: 0;
 }
@@ -40,7 +40,7 @@ html {
 body {
     background-color: inherit;
     color: inherit;
-    font-family: Simplifica, ariel, sans-serif;
+    font-family: ariel, sans-serif;
     text-align: center;
     min-height: 400px;
     width: 100%;
@@ -74,9 +74,9 @@ header {
 }
 
 h1 {
-    color: #EECD87;
+    color: #FFEDDF;
     background-color: inherit;
-    font-family: Swistblnk, ariel, sans-serif;
+    font-family: Monica, ariel, sans-serif;
     font-size: 65px;
     float: left;
     margin: 0;
@@ -110,8 +110,8 @@ ul.nav {
     margin: 0;
     padding: 0 20% 0 20%;
     overflow: hidden;
-    background-color: #3E3142;
-    color: #EECD87;
+    background-color: #823636;
+    color: #FFEDDF;
     position: fixed;
     top: 100px;
     width: 100%;
@@ -136,16 +136,12 @@ li a {
     font-size: 19px;
 }
 
-#adminNav {
-    padding: 0 10% 0 10%;
-}
-
 
 /* Change the link color to orange on hover and underline*/
 
 li a:hover:not(.active) {
     background-color: inherit;
-    color: #B95835;
+    color: #581908;
     text-decoration: underline;
 }
 
@@ -154,7 +150,7 @@ li a:hover:not(.active) {
 
 .active {
     background-color: inherit;
-    color: #B95835;
+    color: #581908;
     text-decoration: underline;
 }
 
@@ -164,7 +160,7 @@ li a:hover:not(.active) {
 h2 {
     color: inherit;
     background-color: inherit;
-    font-family: Simplifica, Arial, sans-serif;
+    font-family: Monica, Arial, sans-serif;
     clear: left;
     margin: 130px 0 0 0;
     padding: 70px 0 30px 0;
@@ -176,7 +172,7 @@ h3 {
     color: inherit;
     background-color: inherit;
     text-align: center;
-    font-family: Simplifica, ariel, sans-serif;
+    font-family: ariel, sans-serif;
     font-size: 35px;
     padding: 10px 0 0 0;
 }
@@ -195,8 +191,8 @@ footer {
     padding: 3px 0 0 0;
     margin: 0;
     text-align: center;
-    color: #EECD87;
-    background-color: #3E3142;
+    color: #FFEDDF;
+    background-color: #823636;
     clear: left;
 }
 
@@ -205,6 +201,7 @@ footer p {
     padding: 5px 0 0 0;
     margin: 0;
     font-size: 17px;
+    kkj;
 }
 
 
