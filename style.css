@@ -163,9 +163,10 @@ h3 {
     color: inherit;
     background-color: inherit;
     text-align: center;
-    font-family: MonicaSmall, ariel, sans-serif;
+    font-family: Rale, ariel, sans-serif;
     font-size: 30px;
     padding: 10px 0 0 0;
+    margin-left: 17%;
     clear: left;
     float: left;
 }
