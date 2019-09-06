@@ -130,9 +130,15 @@ li a {
 
 /* Change the link color to orange on hover and underline*/
 
-a:hover:not(.active) {
+li a:hover:not(.active) {
     background-color: inherit;
     color: #F0B67F;
+    text-decoration: underline;
+}
+
+p a:hover:not(.active) {
+    background-color: inherit;
+    color: #823636;
     text-decoration: underline;
 }
 
