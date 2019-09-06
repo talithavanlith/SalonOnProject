@@ -99,7 +99,7 @@ h1 {
 ul.nav {
     list-style-type: none;
     margin: 0;
-    padding: 0 20% 5px 20%;
+    padding: 0 15% 5px 15%;
     overflow: hidden;
     background-color: #823636;
     color: #FFEDDF;
@@ -198,7 +198,7 @@ footer p {
     clear: left;
     padding: 5px 0 5px 0;
     margin: 0;
-    font-size: 17px;
+    font-size: 10%;
     text-align: center;
 }
 
