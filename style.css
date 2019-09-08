@@ -138,7 +138,7 @@ nav li a:hover:not(.active) {
 
 p a:hover,
 ul a:hover:not(.active),
-table td:hover {
+td a:hover {
     background-color: inherit;
     color: #823636;
     text-decoration: underline;
