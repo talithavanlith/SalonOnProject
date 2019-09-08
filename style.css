@@ -214,6 +214,10 @@ ol {
     padding: 0 10% 20px 25%;
 }
 
+ol li {
+    padding-bottom: 5px;
+}
+
 
 /* bottom of page styling */
 
