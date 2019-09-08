@@ -136,7 +136,13 @@ nav li a:hover:not(.active) {
     text-decoration: underline;
 }
 
-p a:hover:not(.active) {
+p a:hover {
+    background-color: inherit;
+    color: #823636;
+    text-decoration: underline;
+}
+
+ul a:hover {
     background-color: inherit;
     color: #823636;
     text-decoration: underline;
