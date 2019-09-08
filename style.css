@@ -221,9 +221,22 @@ ol li {
 
 table {
     text-align: left;
+    vertical-align: text-top;
     font-size: 18px;
-    padding: 0 10% 20px 25px;
+    padding: 0 10% 20px 100px;
     clear: left;
+}
+
+.col {
+    width: 10%;
+}
+
+.sum {
+    width: 50%
+}
+
+.link {
+    width: 20%;
 }
 
 
