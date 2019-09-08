@@ -208,7 +208,8 @@ p {
     text-align: left;
 }
 
-ol {
+ol,
+#codeStyle {
     text-align: left;
     font-size: 18px;
     padding: 0 10% 20px 25%;
