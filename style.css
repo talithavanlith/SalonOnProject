@@ -222,7 +222,8 @@ ol li {
 table {
     text-align: left;
     font-size: 18px;
-    padding: 0 10% 20px 25%;
+    padding: 0 10% 20px 25px;
+    clear: left;
 }
 
 
