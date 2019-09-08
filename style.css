@@ -136,13 +136,9 @@ nav li a:hover:not(.active) {
     text-decoration: underline;
 }
 
-p a:hover {
-    background-color: inherit;
-    color: #823636;
-    text-decoration: underline;
-}
-
-ul a:hover:not(.active) {
+p a:hover,
+ul a:hover:not(.active),
+table td:hover {
     background-color: inherit;
     color: #823636;
     text-decoration: underline;
@@ -223,16 +219,18 @@ table {
     text-align: left;
     vertical-align: text-top;
     font-size: 18px;
-    padding: 0 10% 20px 20%;
+    padding: 10px 10% 20px 20%;
     clear: left;
 }
 
 .col {
     width: 15%;
+    padding: 10px 0;
 }
 
 .sum {
-    width: 40%
+    width: 40%;
+    padding: 10px 0;
 }
 
 
