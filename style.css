@@ -142,7 +142,7 @@ p a:hover {
     text-decoration: underline;
 }
 
-ul a:hover {
+ul a:hover:not(.active) {
     background-color: inherit;
     color: #823636;
     text-decoration: underline;
