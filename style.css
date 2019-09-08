@@ -223,20 +223,16 @@ table {
     text-align: left;
     vertical-align: text-top;
     font-size: 18px;
-    padding: 0 10% 20px 100px;
+    padding: 0 10% 20px 200px;
     clear: left;
 }
 
 .col {
-    width: 10%;
+    width: 15%;
 }
 
 .sum {
-    width: 50%
-}
-
-.link {
-    width: 20%;
+    width: 40%
 }
 
 
