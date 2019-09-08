@@ -219,6 +219,12 @@ ol li {
     padding-bottom: 10px;
 }
 
+table {
+    text-align: left;
+    font-size: 18px;
+    padding: 0 10% 20px 25%;
+}
+
 
 /* bottom of page styling */
 
