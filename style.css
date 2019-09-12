@@ -204,11 +204,16 @@ p {
     text-align: left;
 }
 
-ol,
-#codeStyle {
+ol {
     text-align: left;
     font-size: 20px;
     padding: 0 10% 20px 25%;
+}
+
+#codeStyle {
+    text-align: left;
+    font-size: 20px;
+    padding: 0 10% 20px 30%;
 }
 
 ol li {
