@@ -131,7 +131,7 @@ nav li a {
 
 nav li a:hover:not(.active) {
     background-color: inherit;
-    color: #27AE60;
+    color: #322E2D;
     text-decoration: underline;
 }
 
@@ -161,7 +161,7 @@ ul.teamList {
 
 .active {
     background-color: inherit;
-    color: #81CF4D;
+    color: #322E2D;
     text-decoration: underline;
 }
 
@@ -251,7 +251,7 @@ footer {
     padding: 3px 0 0 0;
     margin: 0;
     text-align: center;
-    color: #81CF4D;
+    color: #F4FBD5;
     background-color: #272423;
     clear: left;
 }
