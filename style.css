@@ -89,6 +89,11 @@ h1 {
     padding-top: 15px;
 }
 
+.header_image {
+    width: 250px;
+    height: 90px;
+}
+
 
 /* Page header finishes */
 
