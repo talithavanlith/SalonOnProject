@@ -90,8 +90,9 @@ h1 {
 }
 
 .header_image {
-    width: 250px;
+    width: 300px;
     height: 90px;
+    margin: 5px;
 }
 
 
